@@ -9,7 +9,9 @@
 [5. Contributors](#contribs) <br>
 
 ## <a id = "proj-over"> 📄 Project Overview </a> <br>
-**_EMPRECSYS_** is a Java-based application designed to manage employee information and salary details efficiently. The program offers features such as adding, modifying, and deleting employee records while providing detailed salary breakdowns. It leverages Object-Oriented Programming (OOP) principles to ensure modularity, maintainability, and scalability. The system supports both full-time and part-time employees, demonstrating flexibility in workforce management.
+**_EMPRECSYS_** is a Java-based application designed to manage employee records and salary details efficiently. The system provides functionality to handle both full-time and part-time employees, including adding, updating, and deleting records, as well as computing salary details with deductions.
+
+The backend leverages MySQL DBMS to store and retrieve employee data. The application is modular, with separate classes for database connections, employee management, and salary computations, ensuring clean and maintainable code.
 
 ## <a id = "oop-prin"> 🛠️ Application of OOP Principles </a> <br>
 This project showcases the use of core OOP principles:
